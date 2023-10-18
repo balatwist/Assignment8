@@ -1,4 +1,4 @@
-package Task1;
+package Prob1;
 
 public class Person {
     private String lastName;

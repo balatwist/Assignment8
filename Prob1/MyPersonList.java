@@ -1,4 +1,4 @@
-package Task1;
+package Prob1;
 
 public class MyPersonList {
     private final int INITIAL_LENGTH = 4;
